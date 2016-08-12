@@ -36,11 +36,11 @@
 - <p align="left">Clone Source:
 ```sh
 cd $home
-git clone https://github.com/mahdigh2/teleumbrella_2lang
+git clone https://github.com/Mojtaba2210/p
 ```
 - <p align="left">First install:
 ```sh
-cd teleumbrella_2lang
+cd p
 cd .run
 chmod 777 adv.sh
 ./adv.sh r
